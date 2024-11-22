@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/PortfolioProject-NotesApp/static/css/main.5ca1cbe0.chunk.css",
+    "main.js": "/PortfolioProject-NotesApp/static/js/main.53f4dcaa.chunk.js",
+    "main.js.map": "/PortfolioProject-NotesApp/static/js/main.53f4dcaa.chunk.js.map",
+    "runtime-main.js": "/PortfolioProject-NotesApp/static/js/runtime-main.5d246243.js",
+    "runtime-main.js.map": "/PortfolioProject-NotesApp/static/js/runtime-main.5d246243.js.map",
+    "static/js/2.80978b76.chunk.js": "/PortfolioProject-NotesApp/static/js/2.80978b76.chunk.js",
+    "static/js/2.80978b76.chunk.js.map": "/PortfolioProject-NotesApp/static/js/2.80978b76.chunk.js.map",
+    "index.html": "/PortfolioProject-NotesApp/index.html",
+    "precache-manifest.6a072358e0bf8d5f118486ef9c193106.js": "/PortfolioProject-NotesApp/precache-manifest.6a072358e0bf8d5f118486ef9c193106.js",
+    "service-worker.js": "/PortfolioProject-NotesApp/service-worker.js",
+    "static/css/main.5ca1cbe0.chunk.css.map": "/PortfolioProject-NotesApp/static/css/main.5ca1cbe0.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d246243.js",
+    "static/js/2.80978b76.chunk.js",
+    "static/css/main.5ca1cbe0.chunk.css",
+    "static/js/main.53f4dcaa.chunk.js"
+  ]
+}
